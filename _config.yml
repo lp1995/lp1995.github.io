@@ -70,5 +70,5 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:lp1995/lp1995.github.io.git
-  branch: master
+  branch: b1
   message: liupeng update
