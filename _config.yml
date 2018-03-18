@@ -68,4 +68,7 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/lp1995/lp1995.github.io.git
+  branch: master
+  message: liupeng update
